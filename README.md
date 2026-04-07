@@ -1,7 +1,6 @@
-# opentxfm
-[Effective Biological Representation Learning by Masking Gene Expression](https://openreview.net/forum?id=NqZqClqtTK)
+# [Effective Biological Representation Learning by Masking Gene Expression](https://openreview.net/forum?id=NqZqClqtTK)
 
-Accepted at the ICLR 2026 Workshop on Foundation Models for Science (FM4Sci).
+## Accepted at the ICLR 2026 Workshop on Foundation Models for Science (FM4Sci).
 
 This repo is under construction - stay tuned for updates as we share relevant code and artifacts.
 
